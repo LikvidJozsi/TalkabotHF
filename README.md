@@ -1,6 +1,6 @@
 # TalkabotHF
 
-A profejtet tomcat 7.0-val futtattam. Setup:
+A projektet tomcat 7.0-val futtattam. Setup:
 A mysql java connectort bemásoltam a Tomcat/lib/-be és a server.xml-ben beállítottam a pathot a maven install által használt
 kimeneti mappára.
 
